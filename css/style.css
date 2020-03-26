@@ -26,6 +26,8 @@ h1, h2, h3, h4, h5 {
 
 //self modified//
 
+
+
 #one 
 {
 	
@@ -2677,7 +2679,11 @@ blockquote p {
   box-shadow: 0 0px 40px -10px rgba(0, 0, 0, 0.2);
   font-size:  25px;
   font-family: Arial;
+  font-family: 'Sen', sans-serif;
 }
+	
+
+
 
 
 
@@ -2686,7 +2692,7 @@ blockquote p {
 	margin-left: 5%;
 	font-size:  30px;
   font-family: Arial;
-	
+	font-family: 'Sen', sans-serif;
 	
 }
 
