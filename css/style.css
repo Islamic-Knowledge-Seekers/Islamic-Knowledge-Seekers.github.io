@@ -2718,7 +2718,42 @@ transition: all 0.4s ease 0s;
 	
 	
 }
+/* nav bar title */
 
+@media (max-width: 480px)
+{
+	header .navbar-brand {
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: 600;
+  color: #000 !important;
+  font-size: 12px;
+}
+}
+	
+	
+	
+@media (max-width: 300px)
+{
+	header .navbar-brand {
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: 400;
+  color: #000 !important;
+  font-size: 10px;
+}
+}
+
+@media (max-width: 250px)
+{
+	header .navbar-brand {
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: 400;
+  color: #000 !important;
+  font-size: 8px;
+}
+}
 
 
 
