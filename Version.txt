@@ -5,3 +5,5 @@ version 3.0 -> Ramadan Calender Added -> 29/04/2020
 version 3.1 -> Hijama Book link added -> 02/05/2020
 
 Version 4.0 -> Tafseer bangla link added, Download section simply modified into list -> 03/05/2020
+
+version 5.0 -> Ramadan Calender button removed -> 02/06/2020
